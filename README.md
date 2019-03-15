@@ -1,5 +1,5 @@
 # gitworkshop
-A test repo for our team to get familiar with git and github.
+A test repo for our team to git familiar with git and github.
 
 ```
          &
@@ -23,4 +23,3 @@ https://www.atlassian.com/git/tutorials
 
 ## Ed Wrote This
 I am testing out the rebase workflow we discussed.
-
